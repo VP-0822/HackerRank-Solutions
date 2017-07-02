@@ -21,4 +21,4 @@ public static void main(String[] args) {
        sum = solveMeFirst(a, b);
        System.out.println(sum);
   }
-} }
+}
