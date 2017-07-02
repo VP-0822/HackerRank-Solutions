@@ -121,7 +121,7 @@ public class RichieRich {
                 	k--;
                 }
                 s = new String(charArrayOfString);
-                if(k <= 0)
+                if(k <= 1)
                 {
                     break;
                 }
