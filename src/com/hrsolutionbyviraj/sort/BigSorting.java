@@ -50,19 +50,18 @@ public class BigSorting {
 //                j--;
 //            }
 //            
-//            //If still j is greater than lowerindex, then apply quicksort on array on left of pivot element
-//            if(lowerindex < j)
-//            {
-//                quicksort(lowerindex,j);
-//            }
-//            
-//            //If still i is less than higherindex, then apply quicksort on array on right of pivot element
-//            if(i < higherindex)
-//            {
-//                quicksort(i, higherindex);
-//            }
 //        }
-//            
+//        //If still j is greater than lowerindex, then apply quicksort on array on left of pivot element
+//        if(lowerindex < j)
+//        {
+//            quicksort(lowerindex,j);
+//        }
+//        
+//        //If still i is less than higherindex, then apply quicksort on array on right of pivot element
+//        if(i < higherindex)
+//        {
+//            quicksort(i, higherindex);
+//        }
 //    }
     
     public static void sort() {
